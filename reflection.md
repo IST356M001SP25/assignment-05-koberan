@@ -23,3 +23,7 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+
+Assignment 5 helped me understand ETL workflow while using real-world data. I learned how to extract data from cloud spreadsheets and websites, transform it using pandas, and upload the results to an aws compatible S3 bucket using boto3.
+
+A challenge I faced was normalizing city names to match COL data. I also had trouble handling inconsistent country/state naming in survey responses. But by using merge() and applying string cleaning functions, I solved these issues.
